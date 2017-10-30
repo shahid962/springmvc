@@ -6,6 +6,3 @@ create table Employees (
         salary float,
         primary key (id)
 )
-
-
-SELECT * FROM Employees

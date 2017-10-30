@@ -5,4 +5,4 @@ create table Employees (
         name varchar(255),
         salary float,
         primary key (id)
-)
+);

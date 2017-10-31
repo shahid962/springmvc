@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.ranga</groupId>
-	<artifactId>Spring4Hiberante4Integration</artifactId>
+	<groupId>com.happiestminds</groupId>
+	<artifactId>spring4</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>Spring4Hiberante4Integration</name>
+	<name>spring4</name>
 
 	<!-- Specifying the Versions of Spring, Hiberante, MySQL etc -->
 	<properties>
@@ -123,7 +123,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>Spring4Hiberante4Integration</finalName>
+		<finalName>spring4</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>

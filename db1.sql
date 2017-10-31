@@ -1,4 +1,4 @@
-create database ranga;
+create database happiestminds;
 create table Employees (
         id bigint not null auto_increment,
         age integer,

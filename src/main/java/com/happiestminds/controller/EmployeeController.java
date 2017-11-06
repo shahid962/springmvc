@@ -38,7 +38,7 @@ public class EmployeeController {
     @RequestMapping("editEmployee")
     public ModelAndView editEmployee(@RequestParam long id, @ModelAttribute Employee employee) {
     	logger.info("Updating the Employee for the Id "+id);
-        employee = employeeService.getEmployee(id); 
+        employee = employeeService.getEmployee(id);
         return new ModelAndView("employeeForm", "employeeObject", employee);
     }
     

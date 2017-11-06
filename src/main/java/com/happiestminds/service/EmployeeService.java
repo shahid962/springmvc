@@ -5,7 +5,7 @@ import com.happiestminds.entity.Employee;
 import java.util.List;
 
 /**
- * @author happiestminds Reddy
+ * @author happiestminds 
  * @version 1.0
  */
 public interface EmployeeService {

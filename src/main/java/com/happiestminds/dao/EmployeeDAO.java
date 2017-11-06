@@ -8,7 +8,7 @@ import java.util.List;
 import com.happiestminds.entity.Employee;
 
 /**
- * @author happiestminds Reddy
+ * @author happiestminds 
  * @version 1.0
  */
 public interface EmployeeDAO {

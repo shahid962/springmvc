@@ -1,5 +1,5 @@
 <%--
-  User: happiestminds Reddy
+  User: happiestminds 
   Date: 1/27/2015
   Time: 9:48 PM
 --%>
@@ -12,7 +12,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="happiestminds Reddy">
+<meta name="author" content="happiestminds ">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Employee Information</title>

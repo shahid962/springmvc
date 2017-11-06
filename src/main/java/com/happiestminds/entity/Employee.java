@@ -9,7 +9,7 @@ import javax.persistence.Table;
 
 import java.io.Serializable;
 /**
- * @author happiestminds Reddy
+ * @author happiestminds 
  * @version 1.0
  * 
  */

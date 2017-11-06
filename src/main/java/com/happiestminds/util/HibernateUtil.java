@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author happiestminds Reddy
+ * @author happiestminds 
  * @version 1.0
  */
 @Repository

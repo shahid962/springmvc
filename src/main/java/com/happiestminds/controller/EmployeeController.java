@@ -31,7 +31,7 @@ public class EmployeeController {
 
     @RequestMapping("createEmployee")
     public ModelAndView createEmployee(@ModelAttribute Employee employee) {
-    	logger.info("Creating Employee. Data: "+employee);
+    	logger.info("Creating Employee. Data: "+employee); 
         return new ModelAndView("employeeForm");
     }
     

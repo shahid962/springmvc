@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_springmvc_1694876581089-pr-trigger-input-set
+  identifier: Build_springmvc_1694876581089prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_springmvc_1694876581089
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
